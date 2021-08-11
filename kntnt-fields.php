@@ -68,7 +68,7 @@ namespace Kntnt\Fields {
 	class Plugin {
 
 		private static $defaults = [
-			'field' => 'ID',
+			'field' => '',
 			'sep' => '/',
 		];
 
